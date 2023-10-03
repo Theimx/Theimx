@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Theimx
 - 👀 I’m interested in developping vidéos games 
-- 🌱 I’m currently learning python and pygame 
+- 🌱 I’m currently learning python and java 
 - 📫 How to reach me : garielfaimali@gmail.com
 
 <!---
