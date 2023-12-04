@@ -8,7 +8,7 @@
 
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Theimx\&show_icons=true\&theme=dark#gh-dark-mode-only)]
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theimx&show_icons=true&theme=transparent)
+
 📫How to reach me :
 
 Discord : theimx
