@@ -7,7 +7,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="25" height="25"> 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theimx)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theimx)](https://github.com/anuraghazra/github-readme-stats)#GH-LIGHT-MODE-ONLY
 
 📫How to reach me :
 
