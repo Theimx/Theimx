@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Theimx
-- 👀 I’m interested in algorithmic, machine learning and data structure
-- 🌱 I’m currently learning python and java 
-- 📫 How to reach me : gabrielfaimali@gmail.com
+Hi, I'm Theimx, I work for being an engineer
 
-<!---
-I will post here my work
---->
+Languages and Tools:
+
+
+https://github-readme-stats.vercel.app/api?username=Theimx)](https://github.com/Theimx/github-readme-stats
