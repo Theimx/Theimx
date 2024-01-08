@@ -1,4 +1,4 @@
-👋Hi, I'm Theimx, I work for being an engineer, and i'm Looking for a 2 weeks observation'stage for June 
+👋Hi, I'm Theimx, I work for being an engineer,I have started coding in 2021 and i'm Looking for a 2 weeks observation'stage for June 
   
 
 🔧Languages and Tools:  
@@ -15,3 +15,4 @@
 Discord : theimx
 
 Email : gabrielfaimali@gmail.com 
+
