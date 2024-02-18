@@ -1,4 +1,4 @@
- 👋Hi, I'm Theimx, I work for being an engineer,I have started coding in 2021 and i'm Looking for a 2 weeks observation'stage for June 2024
+ 👋Hi, I'm Theimx, I work for being a software engineer,I have started coding in 2021 and i'm Looking for a 2 weeks observation'stage for June 2024
    
 
 🔧Languages and Tools:  
