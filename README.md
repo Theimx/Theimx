@@ -1,4 +1,4 @@
- 👋Hi, I'm Theimx, I'm currently working for being a software engineer,I have started coding in 2021 ans i'm in my second years of college.
+ 👋Hi, I'm Theimx, I'm currently working for being a software engineer,I have started coding in 2021 ans i'm in my second years of college and i'm actualy 17 years old.
 
 🔧Languages and Tools:  
 
