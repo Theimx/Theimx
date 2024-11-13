@@ -1,7 +1,17 @@
 👋 Hi, I'm Theimx!  
 I'm currently working toward becoming a software engineer. I started coding in 2021, and I'm in my second year of college. At 17 years old, I'm enthusiastic about my 2024 goals: exploring genetic algorithms, virtual life, and procedural world generation.
 
-🔧 **Languages and Tools**  
+### 📊 GitHub Stats
+<!-- Ajustement des statistiques GitHub en fonction du mode clair ou sombre -->
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Theimx&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Theimx#gh-light-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Theimx&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Theimx#gh-dark-mode-only)
+
+📫 **How to reach me**
+
+- Discord : theimx
+- Email : gabrielfaimali@gmail.com
+
+  🔧 **Languages and Tools**  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
@@ -13,12 +23,3 @@ I'm currently working toward becoming a software engineer. I started coding in 2
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </p>
 
-### 📊 GitHub Stats
-<!-- Ajustement des statistiques GitHub en fonction du mode clair ou sombre -->
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Theimx&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Theimx#gh-light-mode-only)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Theimx&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Theimx#gh-dark-mode-only)
-
-📫 **How to reach me**
-
-- Discord : theimx
-- Email : gabrielfaimali@gmail.com
