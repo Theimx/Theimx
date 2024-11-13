@@ -10,6 +10,7 @@ I'm currently working toward becoming a software engineer. I started coding in 2
 
 - Discord : theimx
 - Email : gabrielfaimali@gmail.com
+- Linkedln : Gabriel FAIMALI
 
   🔧 **Languages and Tools**  
 
