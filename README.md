@@ -1,5 +1,5 @@
 👋 Hi, I'm Theimx!  
-I'm currently working toward becoming a software engineer. I started coding in may 2020, and I'm in my second year of college. i'm 17 years old,and my goal for 2024 is to explore some domains of IT like : exploring genetic algorithms, virtual life, and procedural world generation.
+I'm currently working toward becoming a software engineer. I started coding in may 2020, and I'm in my second year of college. i'm 17 years old,and my goal for 2024 is to explore some domains of IT like : exploring genetic algorithms, virtual life, and procedural world generation and software engineering.
 
 ### 📊 GitHub Stats
 <!-- Ajustement des statistiques GitHub en fonction du mode clair ou sombre -->
