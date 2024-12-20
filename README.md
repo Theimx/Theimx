@@ -41,4 +41,4 @@ I’m 17 years old and passionate about technology and innovation. My goal for 2
 
 ---
 
-💡 _"Striving to turn ideas into reality through code."_  
+💡 _"Objectif : Software Engineer."_  
