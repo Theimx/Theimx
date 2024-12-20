@@ -36,8 +36,8 @@ I’m 17 years old and passionate about technology and innovation. My goal for 2
 ---
 
 ### 🚀 Featured Projects
-- 🌟 **[Project Name 1](#):** Brief description of the project and its purpose.  
-- 🌟 **[Project Name 2](#):** Brief description of the project and its purpose.  
+- 🌟 **[Procédural Character generator](#):** still working on it.  
+- 🌟 **[Reavel Later](#):** still working on it.  
 
 ---
 
