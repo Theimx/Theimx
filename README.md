@@ -4,7 +4,7 @@
 
 I’m 17 years old and passionate about technology and innovation. My goal for 2024 is to explore diverse IT domains such as:  
 - 🤖 **Genetic Algorithms**  
-- 🌍 **Procedural World Generation**  
+- 🌍 **Procedural Generation**  
 - 🛠️ **Software Engineering**  
 
 ---
