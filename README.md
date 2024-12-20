@@ -41,4 +41,4 @@ I’m 17 years old and passionate about technology and innovation. My goal for 2
 
 ---
 
-💡 _"Objectif : Software Engineer."_  
+💡 _"Objectif : Software Engineer."_ : ![Icon1](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![Icon2](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg)
