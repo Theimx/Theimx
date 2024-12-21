@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gabriel FAIMALI (Theimx)!
+# 👋 Hi, I'm Gabriel FAIMALI (Theimx)! 
 
 🌟 **Aspiring Software Engineer** | 🎓 **2nd Year College Student** | 💻 **Started IT in May 2020**  
 
