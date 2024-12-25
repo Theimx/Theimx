@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel FAIMALI (Theimx)
 
-🌟 **Aspiring Software Engineer** | 🎓 **2nd Year College Student** | 💻 **Started IT in May 2020**  
+🌟 **Aspiring Software Engineer** | 🎓 **2nd Year College Student** | 💻 **Started IT in May 2020 as self-taught**  
 
 I’m 17 years old and passionate about technology and innovation. My goal for 2025 is to explore diverse IT domains such as:  
 - 🤖 **Genetic Algorithms**  
