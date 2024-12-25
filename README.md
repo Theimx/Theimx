@@ -18,7 +18,7 @@ I’m 17 years old and passionate about technology and innovation. My goal for 2
 ### 📫 How to reach me
 - Discord: [theimx](https://discord.com)  
 - Email: [gabrielfaimali@gmail.com](mailto:gabrielfaimali@gmail.com)  
-- LinkedIn: [Gabriel FAIMALI](https://www.linkedin.com/in/gabrielfaimali)  
+- LinkedIn: [Gabriel FAIMALI](www.linkedin.com/in/gabriel-faimali-a245862b6)  
 
 ---
 
