@@ -10,8 +10,7 @@ I’m 17 years old and passionate about technology and innovation. My goal for 2
 ---
 
 ### 📊 GitHub Stats
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Theimx&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Theimx#gh-light-mode-only)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Theimx&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Theimx#gh-dark-mode-only)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Theimx&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=radical)
 
 ---
 
@@ -38,10 +37,11 @@ I’m 17 years old and passionate about technology and innovation. My goal for 2
 ---
 
 ### 🚀 Featured Projects
-- 🌟 **[Procédural Character generator](#):** still working on it.  
-- 🌟 **[Reavel Later](#):** still working on it.  
+- 🌟 **[Procedural Character Generator](#):** still working on it.  
+- 🌟 **[Reveal Later](#):** still working on it.  
 
 ---
 
-💡 _"Objectif : Software Engineer."_                                                   <p align="right"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" alt="Python"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" width="40" height="40" alt="JavaScript"/></p>
+💡 _"Objectif : Software Engineer."_                                                   <p align="right"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" alt="Windows"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" width="40" height="40" alt="Unix"/></p>
+
 
