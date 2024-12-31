@@ -13,7 +13,8 @@ I’m 17 years old and passionate about technology and innovation. My goal for 2
 
 | **My Stats** | **Languages Used** |
 |--------------|--------------------|
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Theimx&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=radical&cache_seconds=1800) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=radical&cache_seconds=1800) |
+| [![GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=Theimx&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Theimx#gh-light-mode-only) [![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Theimx&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Theimx#gh-dark-mode-only) | [![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=default#gh-light-mode-only)](https://github.com/Theimx#gh-light-mode-only) [![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Theimx#gh-dark-mode-only) |
+
 
 ---
 
