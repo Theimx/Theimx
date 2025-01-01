@@ -11,9 +11,9 @@ I’m 17 years old and passionate about technology and innovation. My goal for 2
 
 ### 📊 GitHub Stats
 
-| **My Stats** | **Streak** | **Languages Used** |
-|--------------|------------|--------------------|
-| [![GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=Theimx&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Theimx#gh-light-mode-only) [![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Theimx&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Theimx#gh-dark-mode-only) | [![GitHub Streak-Light](https://streak-stats.demolab.com/?user=Theimx&theme=default#gh-light-mode-only)](https://git.io/streak-stats) [![GitHub Streak-Dark](https://streak-stats.demolab.com/?user=Theimx&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats) | [![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=default#gh-light-mode-only)](https://github.com/Theimx#gh-light-mode-only) [![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Theimx#gh-dark-mode-only) |
+| **Streak** | **Languages Used** |
+|------------|--------------------|
+| [![GitHub Streak-Light](https://streak-stats.demolab.com/?user=Theimx&theme=default#gh-light-mode-only)](https://git.io/streak-stats) [![GitHub Streak-Dark](https://streak-stats.demolab.com/?user=Theimx&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats) | [![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=default#gh-light-mode-only)](https://github.com/Theimx#gh-light-mode-only) [![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Theimx#gh-dark-mode-only) |
 
 ---
 
@@ -46,4 +46,3 @@ I’m 17 years old and passionate about technology and innovation. My goal for 2
 ---
 
 💡 _"Objectif : Software Engineer."_                                                   <p align="right"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" alt="Windows"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" width="40" height="40" alt="Unix"/></p>
-
