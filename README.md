@@ -11,13 +11,13 @@ I’m 17 years old and passionate about technology and innovation. My goal for 2
 
 ### 📊 GitHub Stats
 
-| **Streak** | **Languages Used** |
-|------------|--------------------|
+| **My Stats** | **Languages Used** |
+|--------------|--------------------|
 | <!-- Light mode -->
-[![GitHub Streak-Light](https://streak-stats.demolab.com/?user=Theimx&theme=default#gh-light-mode-only)](https://git.io/streak-stats)  
+[![GitHub Stats-Light](https://github-readme-stats.vercel.app/api?username=Theimx&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Theimx#gh-light-mode-only)
 <!-- Dark mode -->
-[![GitHub Streak-Dark](https://streak-stats.demolab.com/?user=Theimx&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats) | <!-- Light mode -->
-[![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=default#gh-light-mode-only)](https://github.com/Theimx#gh-light-mode-only)  
+[![GitHub Stats-Dark](https://github-readme-stats.vercel.app/api?username=Theimx&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Theimx#gh-dark-mode-only) | <!-- Light mode -->
+[![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=default#gh-light-mode-only)](https://github.com/Theimx#gh-light-mode-only)
 <!-- Dark mode -->
 [![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Theimx#gh-dark-mode-only) |
 
@@ -26,7 +26,7 @@ I’m 17 years old and passionate about technology and innovation. My goal for 2
 ### 📫 How to reach me
 - Discord: [theimx](https://discord.com)  
 - Email: [gabrielfaimali@gmail.com](mailto:gabrielfaimali@gmail.com)  
-- LinkedIn: [Gabriel FAIMALI](https://www.linkedin.com/in/gabriel-faimali-a245862b6)  
+- LinkedIn: [Gabriel FAIMALI](www.linkedin.com/in/gabriel-faimali-a245862b6)  
 
 ---
 
@@ -52,4 +52,3 @@ I’m 17 years old and passionate about technology and innovation. My goal for 2
 ---
 
 💡 _"Objectif : Software Engineer."_                                                   <p align="right"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" alt="Windows"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" width="40" height="40" alt="Unix"/></p>
-
