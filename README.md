@@ -2,9 +2,8 @@
 
 🌟 **Aspiring Software Engineer** | 🎓 **2nd Year College Student** | 💻 **Started IT in May 2020 as self-taught**  
 
-I’m 17 years old and passionate about technology and innovation. My goal for 2025 is to explore diverse IT domains such as:  
-- 🤖 **Genetic Algorithms**  
-- 🌍 **Procedural Generation**  
+I’m 17 years old and passionate about technology and innovation. My goal for 2025 is to explore diverse IT domains such as:   
+- 🌍 **Procedural Generation** / **Genetic Algorithms** 
 - 🛠️ **Software Engineering**  
 
 ---
@@ -18,7 +17,6 @@ I’m 17 years old and passionate about technology and innovation. My goal for 2
 ---
 
 ### 📫 How to reach me
-- Discord: [theimx](https://discord.com)  
 - Email: [gabrielfaimali@gmail.com](mailto:gabrielfaimali@gmail.com)  
 - LinkedIn: [Gabriel FAIMALI](www.linkedin.com/in/gabriel-faimali-a245862b6)  
 
