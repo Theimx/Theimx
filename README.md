@@ -13,14 +13,20 @@ I’m 17 years old and passionate about technology and innovation. My goal for 2
 
 | **Streak** | **Languages Used** |
 |------------|--------------------|
-| [![GitHub Streak-Light](https://streak-stats.demolab.com/?user=Theimx&theme=default#gh-light-mode-only)](https://git.io/streak-stats) [![GitHub Streak-Dark](https://streak-stats.demolab.com/?user=Theimx&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats) | [![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=default#gh-light-mode-only)](https://github.com/Theimx#gh-light-mode-only) [![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Theimx#gh-dark-mode-only) |
+| <!-- Light mode -->
+[![GitHub Streak-Light](https://streak-stats.demolab.com/?user=Theimx&theme=default#gh-light-mode-only)](https://git.io/streak-stats)  
+<!-- Dark mode -->
+[![GitHub Streak-Dark](https://streak-stats.demolab.com/?user=Theimx&theme=dark#gh-dark-mode-only)](https://git.io/streak-stats) | <!-- Light mode -->
+[![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=default#gh-light-mode-only)](https://github.com/Theimx#gh-light-mode-only)  
+<!-- Dark mode -->
+[![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/Theimx#gh-dark-mode-only) |
 
 ---
 
 ### 📫 How to reach me
 - Discord: [theimx](https://discord.com)  
 - Email: [gabrielfaimali@gmail.com](mailto:gabrielfaimali@gmail.com)  
-- LinkedIn: [Gabriel FAIMALI](www.linkedin.com/in/gabriel-faimali-a245862b6)  
+- LinkedIn: [Gabriel FAIMALI](https://www.linkedin.com/in/gabriel-faimali-a245862b6)  
 
 ---
 
