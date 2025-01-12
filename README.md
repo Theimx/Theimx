@@ -45,3 +45,5 @@ I’m 17 years old and passionate about technology and innovation. My goal for 2
 ---
 
 💡 _"Objectif : Software Engineer."_                                                   <p align="right"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" alt="Windows"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" width="40" height="40" alt="Unix"/></p>
+
+_"PS : I'm still building my github profil so i doesn't do all the readme yet and things like that"_    
