@@ -12,7 +12,7 @@ I’m 17 years old and my goal for 2025 is to explore diverse IT domains such as
 
 | **Streak** | **Languages Used** |
 |------------|--------------------|
-| [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Theimx&theme=blood)](https://git.io/streak-stats)(https://github.com/Theimx#gh-light-mode-only) [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Theimx&theme=dark)](https://git.io/streak-stats)](https://github.com/Theimx#gh-dark-mode-only) | [![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=default)](https://github.com/Theimx#gh-light-mode-only) [![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=dark)](https://github.com/Theimx#gh-dark-mode-only) |
+| [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Theimx&theme=blood)](https://github.com/Theimx#gh-light-mode-only) [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Theimx&theme=dark)](https://github.com/Theimx#gh-dark-mode-only) | [![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=default)](https://github.com/Theimx#gh-light-mode-only) [![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=dark)](https://github.com/Theimx#gh-dark-mode-only) |
 
 
 ---
