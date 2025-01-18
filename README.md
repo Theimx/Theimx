@@ -2,7 +2,7 @@
 
 🌟 **Aspiring Software Engineer** | 🎓 **2nd Year College Student** | 💻 **Started IT in May 2020 as self-taught**  
 
-I’m 17 years old and passionate about technology and innovation. My goal for 2025 is to explore diverse IT domains such as:   
+I’m 17 years old and my goal for 2025 is to explore diverse IT domains such as:   
 - 🌍 **Procedural Generation** / **Genetic Algorithms** 
 - 🛠️ **Software Engineering**  
 
@@ -12,7 +12,7 @@ I’m 17 years old and passionate about technology and innovation. My goal for 2
 
 | **Streak** | **Languages Used** |
 |------------|--------------------|
-| [![GitHub Streak](https://theimx.github.io/github-readme-streak-stats?user=Theimx)](https://github.com/Theimx#gh-light-mode-only) [![GitHub Streak-Dark](https://theimx.github.io/github-readme-streak-stats?user=Theimx&theme=dark)](https://github.com/Theimx#gh-dark-mode-only) | [![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=default)](https://github.com/Theimx#gh-light-mode-only) [![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=dark)](https://github.com/Theimx#gh-dark-mode-only) |
+| [![GitHub Streak](https://Theimx.github.io/github-readme-streak-stats?user=Theimx)](https://github.com/Theimx#gh-light-mode-only) [![GitHub Streak-Dark](https://Theimx.github.io/github-readme-streak-stats?user=Theimx)](https://github.com/Theimx#gh-dark-mode-only) | [![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=default)](https://github.com/Theimx#gh-light-mode-only) [![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=dark)](https://github.com/Theimx#gh-dark-mode-only) |
 
 
 ---
