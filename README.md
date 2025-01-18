@@ -12,7 +12,7 @@ I’m 17 years old and passionate about technology and innovation. My goal for 2
 
 | **Streak** | **Languages Used** |
 |------------|--------------------|
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=Theimx)](https://github.com/Theimx#gh-light-mode-only) [![GitHub Streak-Dark](https://streak-stats.demolab.com/?user=Theimx&theme=dark)](https://github.com/Theimx#gh-dark-mode-only) | [![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=default)](https://github.com/Theimx#gh-light-mode-only) [![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=dark)](https://github.com/Theimx#gh-dark-mode-only) |
+| [![GitHub Streak](https://theimx.github.io/github-readme-streak-stats?user=Theimx)](https://github.com/Theimx#gh-light-mode-only) [![GitHub Streak-Dark](https://theimx.github.io/github-readme-streak-stats?user=Theimx&theme=dark)](https://github.com/Theimx#gh-dark-mode-only) | [![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=default)](https://github.com/Theimx#gh-light-mode-only) [![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=dark)](https://github.com/Theimx#gh-dark-mode-only) |
 
 
 ---
@@ -47,3 +47,4 @@ I’m 17 years old and passionate about technology and innovation. My goal for 2
 💡 _"Objectif : Software Engineer."_                                                   <p align="right"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" alt="Windows"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" width="40" height="40" alt="Unix"/></p>
 
 _"PS : I'm still building my github profil so i doesn't do all the readme yet and add all my project"_    
+
