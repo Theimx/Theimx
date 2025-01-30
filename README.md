@@ -17,7 +17,7 @@ I’m 17 years old and my goal for 2025 is to explore diverse IT domains such as
 ---
 
 ### 📫 How to reach me
-- Email: 
+- Email: gabrielfaimali@gmail.com
 - LinkedIn: 
 
 ---
