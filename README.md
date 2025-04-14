@@ -45,7 +45,7 @@ I’m 17 years old and my goal for 2025 is to explore diverse IT domains such as
 
 ---
 
-💡 _"Objectif : Software Engineer."_                                                   <p align="right"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" alt="Windows"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" width="40" height="40" alt="Unix"/></p>
+💡 _"Objectif : Software Engineer."_                                                   <p align="right"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" alt="Windows"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" width="40" height="40" alt="Unix"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="40" height="40" alt="Debian" /> </p>
 
 _"PS : I'm still building my github profil so i doesn't do all the readme yet and add all my project"_    
 
