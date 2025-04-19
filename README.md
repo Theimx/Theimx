@@ -2,7 +2,7 @@
 
 🌟 **Aspiring Software Engineer** | 🎓 **2nd Year College Student** | 💻 **Started IT in May 2020 as self-taught**  
 
-I’m 17 years old and my goal for 2025 is to explore diverse IT domains such as:   
+I’m 18 years old and my goal for 2025 is to explore diverse IT domains such as:   
 - 🌍 **Procedural Generation** / **Genetic Algorithms** / **Data science** / **Open Source Librairy**
 - 🛠️ **Software Engineering**  / **Coding Interview** / **Freelancing** / **Biologie**
 ---
