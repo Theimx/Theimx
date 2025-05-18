@@ -33,11 +33,6 @@
 
 ---
 
-### 🚀 Featured Projects
-- 🌟 **[Procedural Character Generator](#):** still working on it.  
-- 🌟 **[Reveal Later](#):** still working on it.  
-
----
 
 💡 _"Objectif : Software Engineer."_                                                   <p align="right"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" alt="Windows"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" width="40" height="40" alt="Unix"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" width="40" height="40" alt="Debian" /> </p>
 
