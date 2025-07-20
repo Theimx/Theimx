@@ -18,7 +18,8 @@
 
 ### 📫 How to reach me
 - Email: gabrielfaimali@gmail.com
-- LinkedIn: https://www.linkedin.com/in/gabriel-faimali-a245862b6 
+- LinkedIn: https://www.linkedin.com/in/gabriel-faimali-a245862b6
+- Website: https://theimx.github.io/Theimx-Homepage/
 
 ---
 
