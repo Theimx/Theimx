@@ -1,5 +1,5 @@
 
-### **Theimx** 
+### ** 👤 Theimx** 
 ---    
 - Computer Science Student; Aspiring Software Engineer.   
 - Python Developeur; learning Web Dev and Language C.   
@@ -15,6 +15,7 @@
 | [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Theimx&theme=blood)](https://github.com/Theimx#gh-light-mode-only) [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Theimx&theme=dark)](https://github.com/Theimx#gh-dark-mode-only) | [![Top Languages-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=default)](https://github.com/Theimx#gh-light-mode-only) [![Top Languages-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Theimx&layout=compact&theme=dark)](https://github.com/Theimx#gh-dark-mode-only) |
 
 ---
+   
 ---
 
 ### 📫 How to reach me
