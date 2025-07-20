@@ -1,6 +1,6 @@
----   
+
 ### **Theimx** 
-   
+---    
 - Computer Science Student; Aspiring Software Engineer.   
 - Python Developeur; learning Web Dev and Language C.   
 - Interested in Computer Science; Biology; Robotics
