@@ -10,12 +10,12 @@
 
 - **18yo Computer Science Student; Aspiring Software Engineer.**   
 - **Python Developeur; learning Web Dev and Language C.**   
-- **Interested in Computer Science; Biology; Robotics**
+- **Interested in Computer Science; Biology; Robotics.**
 - **Currently learning Python App Building.**   
    
 ------
 
-### 📫 How to reach me
+### 📫 How to reach me :
 - **Email:**   gabrielfaimali@gmail.com
 - **LinkedIn:**  https://www.linkedin.com/in/gabriel-faimali-a245862b6
 - **Website:**  https://theimx.github.io/Theimx-Homepage/
