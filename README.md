@@ -11,7 +11,7 @@
 - **18yo Computer Science Student; Aspiring Software Engineer.**   
 - **Python Developeur; learning Web Dev and Language C.**   
 - **Interested in Computer Science; Biology; Robotics.**
-- **Currently learning Python App Building.**   
+- **Currently learning Python and web App Building.**   
    
 ------
 
