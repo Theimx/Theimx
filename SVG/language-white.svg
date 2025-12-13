@@ -1,0 +1,105 @@
+<svg
+  width="340"
+  height="195"
+  viewBox="0 0 340 195"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-label="Most Used Languages"
+>
+
+  <style>
+    .title {
+      font: 600 18px 'Segoe UI', Ubuntu, sans-serif;
+      fill: #2f80ed;
+    }
+    .label {
+      font: 400 12px 'Segoe UI', Ubuntu, sans-serif;
+      fill: #434d58;
+    }
+  </style>
+
+  <!-- Card -->
+  <rect
+    x="1"
+    y="1"
+    width="338"
+    height="193"
+    rx="8"
+    fill="#ffffff"
+    stroke="#e4e2e2"
+  />
+
+  <!-- Title -->
+  <text x="20" y="32" class="title">
+    Most Used Languages
+  </text>
+
+  <!-- Progress bar background -->
+  <rect
+    x="20"
+    y="55"
+    width="290"
+    height="10"
+    rx="5"
+    fill="#e6e6e6"
+  />
+
+  <!-- ===== Progress segments ===== -->
+
+  <!-- Python 55% (rounded LEFT only) -->
+  <path
+    d="
+      M20 55
+      h160
+      v10
+      h-155
+      a5 5 0 0 1 0 -10
+      z"
+    fill="#3572A5"
+  />
+
+  <!-- C 20% -->
+  <rect
+    x="180"
+    y="55"
+    width="60"
+    height="10"
+    fill="#555555"
+  />
+
+  <!-- SQL 15% -->
+  <rect
+    x="240"
+    y="55"
+    width="45"
+    height="10"
+    fill="#e38c00"
+  />
+
+  <!-- HTML 10% (rounded RIGHT only) -->
+  <path
+    d="
+      M285 55
+      h25
+      a5 5 0 0 1 5 5
+      a5 5 0 0 1 -5 5
+      h-25
+      z"
+    fill="#e34c26"
+  />
+
+  <!-- ===== Legend ===== -->
+
+  <circle cx="30" cy="95" r="5" fill="#3572A5"/>
+  <text x="42" y="99" class="label">Python 55%</text>
+
+  <circle cx="160" cy="95" r="5" fill="#555555"/>
+  <text x="172" y="99" class="label">C 20%</text>
+
+  <circle cx="30" cy="120" r="5" fill="#e38c00"/>
+  <text x="42" y="124" class="label">SQL 15%</text>
+
+  <circle cx="160" cy="120" r="5" fill="#e34c26"/>
+  <text x="172" y="124" class="label">HTML 10%</text>
+
+</svg>
