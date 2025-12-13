@@ -10,11 +10,11 @@
   <style>
     .title {
       font: 600 18px 'Segoe UI', Ubuntu, sans-serif;
-      fill: #99ccff; /* titre lumineux */
+      fill: #ffffff;
     }
     .label {
       font: 400 12px 'Segoe UI', Ubuntu, sans-serif;
-      fill: #e0e0e0; /* labels clairs */
+      fill: #ffffff;
     }
   </style>
 
@@ -25,8 +25,8 @@
     width="338"
     height="193"
     rx="8"
-    fill="#0d0d0d"   <!-- fond ultra sombre -->
-    stroke="#222222" <!-- bordure discrète -->
+    fill="#0d0d0d"
+    stroke="#444444"
   />
 
   <!-- Title -->
@@ -41,65 +41,65 @@
     width="290"
     height="10"
     rx="5"
-    fill="#222222" <!-- gris anthracite pour contraste -->
+    fill="#222222"
   />
 
-  <!-- ===== Progress segments ===== -->
+  <!-- Progress segments -->
 
-  <!-- Python 55% -->
+  <!-- Python 50% (arrondi gauche) -->
   <path
     d="
       M20 55
-      h160
+      h145
       v10
-      h-155
+      h-145
       a5 5 0 0 1 0 -10
       z"
-    fill="#4da6ff" <!-- bleu vif -->
+    fill="#FF4C4C"
   />
 
-  <!-- C 20% -->
+  <!-- C 20% (rectangle simple) -->
   <rect
-    x="180"
+    x="165"
     y="55"
-    width="60"
+    width="58"
     height="10"
-    fill="#cccccc" <!-- gris clair -->
+    fill="#8B1A1A"
   />
 
-  <!-- SQL 15% -->
+  <!-- HTML 25% (rectangle simple) -->
   <rect
-    x="240"
+    x="223"
     y="55"
-    width="45"
+    width="72.5"
     height="10"
-    fill="#ffbb33" <!-- orange vif -->
+    fill="#A83232"
   />
 
-  <!-- HTML 10% -->
+  <!-- SQL 5% (arrondi droit) -->
   <path
     d="
-      M285 55
-      h25
+      M295.5 55
+      h14.5
       a5 5 0 0 1 5 5
       a5 5 0 0 1 -5 5
-      h-25
+      h-14.5
       z"
-    fill="#ff4c26" <!-- rouge lumineux -->
+    fill="#B565A7"
   />
 
-  <!-- ===== Legend ===== -->
+  <!-- Legend -->
 
-  <circle cx="30" cy="95" r="5" fill="#4da6ff"/>
-  <text x="42" y="99" class="label">Python 55%</text>
+  <circle cx="30" cy="95" r="5" fill="#FF4C4C"/>
+  <text x="42" y="99" class="label">Python 50%</text>
 
-  <circle cx="160" cy="95" r="5" fill="#cccccc"/>
+  <circle cx="160" cy="95" r="5" fill="#8B1A1A"/>
   <text x="172" y="99" class="label">C 20%</text>
 
-  <circle cx="30" cy="120" r="5" fill="#ffbb33"/>
-  <text x="42" y="124" class="label">SQL 15%</text>
+  <circle cx="30" cy="120" r="5" fill="#A83232"/>
+  <text x="42" y="124" class="label">HTML 25%</text>
 
-  <circle cx="160" cy="120" r="5" fill="#ff4c26"/>
-  <text x="172" y="124" class="label">HTML 10%</text>
+  <circle cx="160" cy="120" r="5" fill="#B565A7"/>
+  <text x="172" y="124" class="label">SQL 5%</text>
 
 </svg>
