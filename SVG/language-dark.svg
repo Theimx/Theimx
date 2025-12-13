@@ -6,7 +6,6 @@
   role="img"
   aria-label="Most Used Languages"
 >
-
   <style>
     .title {
       font: 600 18px 'Segoe UI', Ubuntu, sans-serif;
@@ -18,16 +17,25 @@
     }
   </style>
 
-  <!-- Card -->
-  <rect
-    x="1"
-    y="1"
-    width="338"
-    height="193"
-    rx="8"
-    fill="#0d0d0d"
-    stroke="#444444"
-  />
+  <defs>
+    <clipPath id="outer_rectangle">
+      <rect width="340" height="195" rx="4.5"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#outer_rectangle)">
+    <!-- Card avec bordure fine -->
+    <rect
+      x="0.5"
+      y="0.5"
+      width="339"
+      height="194"
+      rx="4.5"
+      fill="#0d0d0d"
+      stroke="#E4E2E2"
+      stroke-width="1"
+    />
+  </g>
 
   <!-- Title -->
   <text x="20" y="32" class="title">
