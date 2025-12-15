@@ -1,7 +1,7 @@
 <svg
   width="340"
-  height="195"
-  viewBox="0 0 340 195"
+  height="225"
+  viewBox="0 0 340 225"
   xmlns="http://www.w3.org/2000/svg"
   role="img"
   aria-label="Most Used Languages"
@@ -19,17 +19,16 @@
 
   <defs>
     <clipPath id="outer_rectangle">
-      <rect width="340" height="195" rx="4.5"/>
+      <rect width="340" height="225" rx="4.5"/>
     </clipPath>
   </defs>
 
   <g clip-path="url(#outer_rectangle)">
-    <!-- Card avec bordure fine -->
     <rect
       x="0.5"
       y="0.5"
       width="339"
-      height="194"
+      height="224"
       rx="4.5"
       fill="#0d0d0d"
       stroke="#E4E2E2"
@@ -52,62 +51,74 @@
     fill="#222222"
   />
 
-  <!-- Progress segments -->
+  <!-- ===== Progress segments ===== -->
 
-  <!-- Python 50% (arrondi gauche) -->
+  <!-- Python 47% (136.3px) -->
   <path
-    d="
-      M20 55
-      h145
-      v10
-      h-145
-      a5 5 0 0 1 0 -10
-      z"
+    d="M20 55 h136.3 v10 h-136.3 a5 5 0 0 1 0 -10 z"
     fill="#FF4C4C"
   />
 
-  <!-- C 20% (rectangle simple) -->
+  <!-- C 20% (58px) -->
   <rect
-    x="165"
+    x="156.3"
     y="55"
     width="58"
     height="10"
     fill="#8B1A1A"
   />
 
-  <!-- HTML 25% (rectangle simple) -->
+  <!-- HTML 14.7% (42.63px) -->
   <rect
-    x="223"
+    x="214.3"
     y="55"
-    width="72.5"
+    width="42.63"
     height="10"
     fill="#A83232"
   />
 
-  <!-- SQL 5% (arrondi droit) -->
-  <path
-    d="
-      M295.5 55
-      h14.5
-      a5 5 0 0 1 5 5
-      a5 5 0 0 1 -5 5
-      h-14.5
-      z"
-    fill="#B565A7"
+  <!-- CSS 11.3% (32.77px) -->
+  <rect
+    x="256.93"
+    y="55"
+    width="32.77"
+    height="10"
+    fill="#7A0000"
   />
 
-  <!-- Legend -->
+  <!-- JavaScript 5.3% (15.37px) -->
+  <rect
+    x="289.7"
+    y="55"
+    width="15.37"
+    height="10"
+    fill="#5C0000"
+  />
+
+  <!-- SQL 2.7% (7.83px, arrondi droit) -->
+  <path
+    d="M305.07 55 h7.83 a5 5 0 0 1 0 10 h-7.83 z"
+    fill="#3D0000"
+  />
+
+  <!-- ===== Legend ===== -->
 
   <circle cx="30" cy="95" r="5" fill="#FF4C4C"/>
-  <text x="42" y="99" class="label">Python 50%</text>
+  <text x="42" y="99" class="label">Python 47%</text>
 
   <circle cx="160" cy="95" r="5" fill="#8B1A1A"/>
   <text x="172" y="99" class="label">C 20%</text>
 
   <circle cx="30" cy="120" r="5" fill="#A83232"/>
-  <text x="42" y="124" class="label">HTML 25%</text>
+  <text x="42" y="124" class="label">HTML 14.7%</text>
 
-  <circle cx="160" cy="120" r="5" fill="#B565A7"/>
-  <text x="172" y="124" class="label">SQL 5%</text>
+  <circle cx="160" cy="120" r="5" fill="#7A0000"/>
+  <text x="172" y="124" class="label">CSS 11.3%</text>
+
+  <circle cx="30" cy="145" r="5" fill="#5C0000"/>
+  <text x="42" y="149" class="label">JavaScript 5.3%</text>
+
+  <circle cx="160" cy="145" r="5" fill="#3D0000"/>
+  <text x="172" y="149" class="label">SQL 2.7%</text>
 
 </svg>
