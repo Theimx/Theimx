@@ -2,7 +2,7 @@
 ### 📊 GitHub Stats
 | **Github Activity** | **Languages** |
 |--------------------|---------------|
-| [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Theimx&theme=blood)](https://github.com/Theimx#gh-light-mode-only) [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Theimx&theme=dark)](https://github.com/Theimx#gh-dark-mode-only) | [![Top Languages-Light](https://raw.githubusercontent.com/Theimx/Theimx/ea97545240241caa76076a02afa6739d708f42a0/SVG/language-white.svg)](https://github.com/Theimx#gh-light-mode-only) [![Top Languages-Dark](https://raw.githubusercontent.com/Theimx/Theimx/ea97545240241caa76076a02afa6739d708f42a0/SVG/language-dark.svg)](https://github.com/Theimx#gh-dark-mode-only) |
+| [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Theimx&theme=blood)](https://github.com/Theimx#gh-light-mode-only) [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Theimx&theme=dark)](https://github.com/Theimx#gh-dark-mode-only) | [![Top Languages-Light](https://raw.githubusercontent.com/Theimx/Theimx/0961b4e9b971a98ff503a4dfc004271ddc9ce1c2/SVG/language-white.svg)](https://github.com/Theimx#gh-light-mode-only) [![Top Languages-Dark](https://raw.githubusercontent.com/Theimx/Theimx/0961b4e9b971a98ff503a4dfc004271ddc9ce1c2/SVG/language-dark.svg)](https://github.com/Theimx#gh-dark-mode-only) |
 
 
 
