@@ -1,7 +1,7 @@
 <svg
   width="340"
-  height="225"
-  viewBox="0 0 340 225"
+  height="195"
+  viewBox="0 0 340 195"
   xmlns="http://www.w3.org/2000/svg"
   role="img"
   aria-label="Most Used Languages"
@@ -19,7 +19,7 @@
 
   <defs>
     <clipPath id="outer_rectangle">
-      <rect width="340" height="225" rx="4.5"/>
+      <rect width="340" height="195" rx="4.5"/>
     </clipPath>
   </defs>
 
@@ -28,7 +28,7 @@
       x="0.5"
       y="0.5"
       width="339"
-      height="224"
+      height="194"
       rx="4.5"
       fill="#0d0d0d"
       stroke="#E4E2E2"

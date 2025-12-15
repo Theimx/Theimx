@@ -1,7 +1,7 @@
 <svg
   width="340"
-  height="215"
-  viewBox="0 0 340 215"
+  height="195"
+  viewBox="0 0 340 195"
   xmlns="http://www.w3.org/2000/svg"
   role="img"
   aria-label="Most Used Languages"
@@ -18,9 +18,17 @@
     }
   </style>
 
-  <!-- Card -->
-  <rect x="1" y="1" width="338" height="213" rx="8"
-        fill="#ffffff" stroke="#e4e2e2"/>
+  <!-- Card with black border -->
+  <rect
+    x="0.5"
+    y="0.5"
+    width="339"
+    height="194"
+    rx="8"
+    fill="#ffffff"
+    stroke="#000000"
+    stroke-width="1.5"
+  />
 
   <!-- Title -->
   <text x="20" y="32" class="title">
@@ -28,38 +36,23 @@
   </text>
 
   <!-- Progress bar background -->
-  <rect x="20" y="55" width="280" height="10" rx="5"
-        fill="#e6e6e6"/>
+  <rect
+    x="20"
+    y="55"
+    width="280"
+    height="10"
+    rx="5"
+    fill="#e6e6e6"
+  />
 
   <!-- ===== Progress segments ===== -->
 
-  <!-- Python 47% -->
-  <path
-    d="M20 55 h131.6 v10 h-131.6 a5 5 0 0 1 0 -10 z"
-    fill="#FF4C4C"
-  />
-
-  <!-- C 20% -->
-  <rect x="151.6" y="55" width="56" height="10"
-        fill="#8B1A1A"/>
-
-  <!-- HTML 14.7% -->
-  <rect x="207.6" y="55" width="41.16" height="10"
-        fill="#A83232"/>
-
-  <!-- CSS 11.3% -->
-  <rect x="248.76" y="55" width="31.64" height="10"
-        fill="#7A0000"/>
-
-  <!-- JavaScript 5.3% -->
-  <rect x="280.4" y="55" width="14.84" height="10"
-        fill="#5C0000"/>
-
-  <!-- SQL 2.7% (ancien violet remplacé) -->
-  <path
-    d="M295.24 55 h7.56 a5 5 0 0 1 0 10 h-7.56 z"
-    fill="#3D0000"
-  />
+  <path d="M20 55 h131.6 v10 h-131.6 a5 5 0 0 1 0 -10 z" fill="#FF4C4C"/> <!-- Python -->
+  <rect x="151.6" y="55" width="56" height="10" fill="#8B1A1A"/> <!-- C -->
+  <rect x="207.6" y="55" width="41.16" height="10" fill="#A83232"/> <!-- HTML -->
+  <rect x="248.76" y="55" width="31.64" height="10" fill="#7A0000"/> <!-- CSS -->
+  <rect x="280.4" y="55" width="14.84" height="10" fill="#5C0000"/> <!-- JS -->
+  <path d="M295.24 55 h7.56 a5 5 0 0 1 0 10 h-7.56 z" fill="#3D0000"/> <!-- SQL -->
 
   <!-- ===== Legend ===== -->
 
