@@ -11,7 +11,7 @@
 ---
 ### **👤 Theimx** 
 
-- **18yo Computer Science Student; Aspiring Software Engineer.**   
+- **19yo Computer Science Student; Aspiring Software Engineer.**   
 - **Python Developeur; App Building & Algorithmics.**   
 - **Interested in Computer Science; Biology; Robotics.**
 - **Currently learning Language C and Web App Building.**   
