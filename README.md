@@ -20,13 +20,14 @@
 - **Website:** https://theimx.github.io/Theimx-Homepage/
 
 ---
-
 <p align="right">
-  <span style="white-space: nowrap;">
-    <img src="https://raw.githubusercontent.com/Theimx/Theimx/b3749e542ba939d9891bd1e0df4d9dedf4227126/ICONE/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f77696e646f777331312f77696e646f777331312d6f726967696e616c2e737667.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width="40" height="40"/>
-    <img src="ICONE/Ubuntu.png" width="40" height="40"/> 
-    <img src="ICONE/raspberrypi.svg" width="40" height="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40" height="40"/>
-  </span>
+  <table>
+    <tr>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" width="40"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width="40"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40"/></td>
+    </tr>
+  </table>
 </p>
